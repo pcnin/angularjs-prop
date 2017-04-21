@@ -1,0 +1,1446 @@
+{
+    "cookies":{
+        "title": "USO DE COOKIES",
+        "text": "Use \"cookies\" own and third to improve our services and to obtain statistical data navigation users.<br />If you continue browsing, consider accepting its use. You can expand this information <a href='terms.html#miancla'><u>here.</ u></a>"
+    },
+    "blog":{
+        "title": "Blog"
+    },
+    "header": {
+        "logo":{
+            "large": {
+                "alt": "Go to the home of Besgam, the best sportsbook betting",
+                "title": "Go to the home of Besgam, the best sportsbook betting"
+            },
+            "small": {
+                "alt": "Go to the home of Besgam, the best sportsbook betting",
+                "title": "Go to the home of Besgam, the best sportsbook betting"
+            }
+        },
+        "menu": {
+            "home": {
+                "name":"Home",
+                "title": "Go to the home of Besgam, the best sportsbook betting"
+                },
+            "surebet":{
+                "name": "Surebet",
+                "title": "Go to the Surebet to make your sports betting a safe bet"
+            },
+            "live":{
+                "name": "Live",
+                "title": "bets live"
+            },
+            "promo": {
+                "name": "Promotions",
+                "title": "Go to the promotions that offers Besgam and take advantage of them"
+            },
+            "bonus": {
+                "name": "Bonus",
+                "title": "Take advantage of the best bonuses of the main betting market"
+            },
+            "blog": {
+                "name": "Blog",
+                "title": "Discover in blog Besgam all news, tips and promotions on sports betting"
+            },
+            "help": {
+                "name": "Help",
+                "title": "Solve your doubts here and your bets Besgam"
+            },
+            "login": {
+                "name": "Login",
+                "title": "Please log in Besgam to get a unique experience in your online betting"
+            },
+            "loginSession": {
+                "userPanel": {
+                    "name": "User Panel",
+                    "title": "Use our administration panel to make the most of all our services."
+                },
+                "closeSession": {
+                    "name": "Sign off"
+                }
+            }
+        },
+        "betFinder": {
+            "1": "LOCAL",
+            "x": "DRAW",
+            "2": "VISITOR",
+            "noResults": "No results found",
+            "moreResults": "Find more results for",
+            "search": "Search",
+            "goToEvent": {
+                "title": "Best results betting odds in comparison Besgam apuestasdeportivas."
+            }
+        },
+        "betFinderM": {
+            "1": "1",
+            "x": "X",
+            "2": "2",
+            "search": "Event / Participant"
+        },
+        "betslip":{
+            "bets": "Betting",
+            "title": "Place your bets with us, you can make even compare combined to get the highest return"
+        },
+        "img":{
+            "iconSearch":{
+                "glass": {
+                    "alt": "Find in Besgam all fees, compare them and earn money with us"
+                }
+            },
+            "sportIcon": {
+                "alt": "Online sports betting icon",
+                "title": "Results sportsbook Besgam best bookmakers"
+            }
+        }
+    },
+    "centralFinder":{
+        "title": "Search the best betting odds",
+        "filter": {
+            "title": "Filters",
+            "sport": "Sports",
+            "competition": "Competition"
+        },
+        "nextComp":{
+            "name": "Upcoming Competitions",
+            "title": "The next competitions of your favorite sports are Besgam"
+        }
+    },
+    "footer": {
+        "col1":{
+            "title": "CONTACT",
+            "about":{
+                "name": "About us",
+                "title": "Learn all about us"
+            },
+            "terms":{
+                "name": "Terms and Conditions",
+                "title": "Go to the general conditions of besgam, comparator sports betting"
+            },
+            "adress": "Calle Agastia, 80<br />Madrid<br />Telf: +34 91 446 13 14<br />",
+            "mail": {
+                "name": "Email: info@besgam.com",
+                "title": "Contact us for any questions, requests or suggestions"
+            }
+        },
+        "col2": {
+            "title": "RECENT TWEETS",
+            "alt": "twitter image besgam bets"
+
+        },
+        "col3":{
+            "title": "NEWSLETTER",
+            "description": "Give us your email so you <br> stay informed of all developments <br>",
+            "placeholder": "Your email",
+            "value": "GO"
+        }
+    },
+    "socialicons": {
+        "youtube": "Besgam access to Youtube and displays the best videos and tutorials on gambling",
+        "twitter": "Besgam access to Twitter to keep abreast of current sports betting",
+        "facebook": "Access the Facebook of Besgam know the latest news and betting",
+        "vine": "Access came from Besgam"
+    },
+    "home": {
+        "featuredTitle": "Featured",
+        "frontEvents":{
+            "bonusIcon": {
+                "alt": "Icon bonds. Besgam comparator best bookmakers",
+                "title": "Benefit from the best bonuses of our bookmakers",
+                "url": {
+                    "title": "Take advantage of the best welcome bonuses in the market to start betting"
+                }
+            },
+            "blogIcon": {
+                "alt": "Icon sports betting forum",
+                "title": "betting forum. Learn how to bet",
+                "url": {
+                    "title": "Discover the best tips and tricks wing when making your sports betting"
+                },
+                "name": "Graduate at our school"
+            },
+            "surebetIcon": {
+                "alt": "surebet safe bets.",
+                "title": "Besgam comparator safe bets sports betting",
+                "url": {
+                    "title": "Make your sports betting are safe with our Surebets"
+                }
+            }
+        },
+        "filterByDate": {
+            "name": "Date",
+            "value": {
+                "nearby": "Closest",
+                "far": "Farthest"
+            }
+        },
+        "buttonPromo": {
+            "alt": "Icon betting houses promotions",
+            "title": "Find all promotions playing through Besgam, sportsbook betting"    
+        },   
+        "buttonMoreResults": "SEE MORE",
+        "twitter": {
+            "name": "Latest Tweets"
+        },
+        "bettingHouse": {
+            "name": "Bookmakers",
+            "marca":{
+                "alt": "logo brand sports betting",
+                "title": "Brand sports book betting. Besgam compares the best online betting odds"
+            },
+            "sportium":{
+                "alt": "logo sports betting house Sportium",
+                "title": "Sportium sports betting. Besgam better odds comparison online"
+            },
+            "william":{
+                "alt": "Besgam bookmakers for this match",
+                "title": "Sports book betting hill. Besgam the best bookmakers"
+            },
+            "bwin":{
+                "alt": "logo bookmaker bet and win sports",
+                "title": "Sports betting bet and best odds win.Encuentra market"
+            },
+            "luckia":{
+                "alt": "luckia betting logo",
+                "title": "Luckia sports betting. Online betting with the best bookmakers"
+            },
+            "betfair":{
+                "alt": "logo house sports betting betfair",
+                "title": "House betfair sportsbook. Besgam comparator best odds online"
+            },
+            "paf":{
+                "alt": "paf logo home betting sports betting",
+                "title": "Paf sports betting. Besgam comparator bet online"
+            },
+            "bet365":{
+                "alt": "logo home bet365 sports betting",
+                "title": "365 sports book betting. Besgam compares the best odds of bookmakers"
+            },
+            "interwetten":{
+                "alt": "logo interwetten house betting sports betting",
+                "title": "House interwetten sports betting. Learn how to bet online with the best comparator"
+            },
+            "golden":{
+                "alt": "logo goldenpark house betting sports betting",
+                "title": "Goldenpark sports betting. The best bookmakers"
+            }
+
+        }
+    },
+    "frontEvents": {
+        "compTxt": "Come in and knows the best <br> market shares.",
+        "enter": "Enter",
+        "resultUrl": {
+            "title": "See sports markets. The best bookmakers"
+        },
+        "teamShield": {
+            "title": "Online betting best betting page.",
+            "alt": "Shields betting sports teams Spain"
+        },
+        "teamShieldM": {
+            "title": "Online betting best betting page.",
+            "alt": "Shields betting sports teams Spain"
+        },
+        "sportsBetting": {
+            "alt": "The best bookmakers for sports odds comparison",
+            "title": "Get the best betting odds with besgam"
+        }
+    },
+    "betslip":{
+        "betSimple": {
+            "name": "Simple",
+            "total": "Total bets",
+            "findBets": "Search the web bets you want to add to the cart."
+
+        },
+        "betCombi": {
+            "name": "Combined",
+            "newCombi": {
+               "title": "New Combined", 
+               "explain": {
+                "text": "Create a combined selecting new bets.",
+                "step1": "Choose the basket you want to modify.",
+                "step2": "Eliminates and / adds new bets.",
+                "step3": "Compare the combined modified with the rest of your bets."
+               }
+            },
+            "modifyCombi":{
+                "title": "Modify Combined",
+                "explain": {
+                    "text": "Modifies a previously created combined.",
+                    "findBets": "You have not added any bet basket Select",
+                    "findBets2": "and search your bets."
+                    }
+            } 
+        },
+        "betCompared": {
+            "name": "COMPARED BETTING",
+            "findBets": "Search the web bets you want to add to cart"
+        },
+        "cuote": "Share",
+        "turnOff": "Return",
+        "notAvailable": "unavailable",
+        "total": "Total",
+        "compButton": "COMPARE COMBINED",
+        "removeButton": "Remove combined",
+        "betButton": "BET"
+    },    
+    "surebet": {
+        "knowMore" : {
+            "title": "KNOW MORE",
+            "text" : "A safe bet Surebet or allows the user to make money without risk. a particular bet amounts all possible outcomes of an event, and whatever happens, the money you get is always greater than the amount invested.",
+            "readMore": "Read more",
+            "textTitle": "To know more about surebets safe bet in safe sports betting"
+        },
+        "surebetList": {
+            "title": "Sure Bet List",
+            "calculate": "CALCULATE YOUR BETS >",
+            "benefit": "Benefit",
+            "amountBet": "AMOUNT TO BETTING",
+            "homeAmountBet": "BETTING AMOUNT IN EACH HOUSE",
+            "showInfo": {
+                "alt": "information about safe bet surebet",
+                "title": "information about safe bets for this match Besgam",
+                "titleText": "Besgam information safe bet for this match"
+            },
+            "logoImg": {
+                "alt": "Logos betting houses. Besgam comparator safe bets",
+                "title": "The best houses are safe bets online besgam"
+            },
+            "arrowAlt": "Arrow accesses the sports betting safe bets"
+        },
+        "rabbitsGame": {
+            "text": "We're hunting a",
+            "text2": "Sure Bet very beasts",
+            "copy": "We search the best Surebets <br> market to offer them. <br> Take to devour and traps <br> great prizes.",
+            "txtM": "We are hunting a very beasts Sure Bet",
+            "copyM": "We search the best Surebets market to offer them. <br> Take to devour and catch big prizes."
+        }
+    },
+    "promotions": {
+        "title": "Access our promotions page and benefit of all promotions",
+        "alt": "image holder betting bonuses",
+        "exclusive": "EXCLUSIVE FOR REGISTERED USERS",
+        "linkTitle": "Promotion Besgam",
+        "homeLinkTitle": "Get your bonus",
+        "homeLinkTitle2": "Get and benefit from your bonus",
+        "linkBets": "betting",
+        "alt2": "Get promoting Besgam",
+        "title2": "Take advantage of the awards it offers Besgam ",
+        "alt3": "sports betting"
+    },
+    "bonus": {
+        "generalPage": {
+            "title": "Access our website bonds and benefit from all its bonds",
+            "alt": "image holder betting bonuses",
+            "homeBonus": {
+                "alt": "sports betting",
+                "title": "Get your bonus and benefit from betting",
+                "txt": {
+                    "title": "Learn about the bonds of the bookmaker",
+                    "title2": "Get your bonus betting bookmaker",
+                    "getBonus": "GET BONO"
+                },
+            "bonusIn": {
+                "title": "Enjoy the bonus of sports betting"
+
+            }
+        },
+            "tweets": {
+                "name": "Latest Tweets",
+                "follow": "Follow @Besgam",
+                "title": "Go to besgam twitter comparator sports betting",
+                "alt": "twitter image besgam bets"
+            }
+        }
+    },
+    "pagination":{
+        "previous": "PREVIOUS",
+        "next": "NEXT",
+        "first": "START",
+        "last": "END"
+    },
+    "aboutus": {
+        "name": "About us",
+        "alt": "Besgam logo image comparator best bookmakers",
+        "title": "All about Besgam online betting comparison. Come in and conocenos",
+        "alt2": "Besgam up image of sports nive",
+        "text": "BesGam is a search engine / comparator betting odds, we help you find Sportsbook is paying the best odds for the bet you want to make. <br /> <br /> We are the meeting point for everyone interested in sports betting, providing information and tools to make their bets more interesting and helping them increase their profitability. <br /> <br /> BesGam is directed both to the person who wants to enter the world of betting, finding a simple, clean and easy to use environment, and more used to place bets on a regular basis, you will have tools and full details of all events, markets and quotas available person. <br /> <br /> BesGam philosophy is to allow and facilitate users live a better experience his love of sports and sports betting. Within this concept, we will be increasing and constantly improving the browsing experience, content (sports, competitions, bookies, markets, etc ..) as well as the tools the user can use to improve their profitability. <br /> <br /> BesGam can find the exclusive promotions bookies and contests where you can win exciting and exclusive prizes. Follow us on social networks (Twitter, Facebook and Youtube) to stay on top of promotions and new products."
+    },
+    "terms": {
+        "name": "General conditions",
+        "section1": {
+            "title": "A. LEGAL NOTE",
+            "text": "In accordance with the provisions of Law 34/2002 of July 11, Services Information Society and Electronic Commerce, we inform that the ownership of this web page is Best Option Games SL, trading company Spanish nationality with CIF B-87114104, registered in the Madrid Mercantile Register, volume 32,745, Book 0, Folio 61, Section 8, Page M-589422, entry one; whose registered office is at Agastia 80, CP 28043 Madrid."
+        },
+        "section2": {
+            "title": "B. POLICY COOKIES",
+            "text": {
+                "textP": "Cookies are small data files sent by a website, that are stored in the user's browser. Best Option Games S.L. uses cookies, both own and third parties, in order to improve navigation on your website, facilitate the login, the preferences of their customers and deliver content and advertising interest. In particular, the website BesGam.com the following types of cookies are used:",
+                "textList1": "Session State cookies: Allow gather information on how the user interacts with the site.",
+                "textList2": "Google Analytics cookies: provide statistical information on the website, enabling the calculation of the number of visitors, page views, time the user remains the same and navigation.",
+                "textList3": "Security Cookies: Allow logon by the user.",
+                "textList4": "Cookies preferences: Allows know the tastes and preferences of the user according to the information consulted.",
+                "textP2": "Although the storage of cookies does not entail any risk to the user's computer, and provides many advantages in order to facilitate navigation and use of our website by users, you may disable it via the privacy options and configuration existing content in your browser. Refer to 'help' of your browser for information."
+            }
+        },
+        "section3": {
+            "title": "C. PRIVACY POLICY",
+            "text1": "In accordance with the provisions of Law 15/1999 of December 13, Protection of Personal Data, and its implementing regulation, the personal data provided by users of this web site are stored in a file data owned by Best Option Games SL, registered and legalized by the Spanish data Protection Agency, whose purpose is to manage the service provided by BesGam.com and conducting promotional and advertising activities of other services and products, both own and of terceros.El User may exercise their rights of access, rectification, cancellation or opposition regarding their personal data included in the file using the form below, marking, if necessary, appropriate, or by writing to the following address options: ",
+            "text2": "Best Option Games S.L. Calle Agastia 80, 28043 – Madrid",
+            "text3": "Best Option Games S.L. It ensures that the file referred complies with the requirements of current legislation on the protection of personal data regarding their protection, security and confidentiality, and the data included will use them exclusively for the purposes for which they were collected."
+        },
+        "section4": {
+            "title": "D. TERMS AND CONDITIONS",
+            "text1": "1. Object <br> The General Conditions are intended to regulate the use of this website by its usuarios.Al use the site, you confirm that you have read, understood and accepted the present contract terms and conditions as well as the privacy policy and the use of cookies.El owner of the website is Best Option Games SL, a Spanish company established in Agastia street # 80, 28043 Madrid, CIF B-87114104Best Option Games SL It reserves the right to unilaterally amend these Conditions.",
+            "text2": "2. Services provided <br> BesGam.com provides comparative information on services provided by third parties, which allows the user, via a tool designed specifically for that purpose, compare prices, conditions, fees, bonuses and promotions offered by the different online gambling operators that exist in the market. <br> BesGam.com is not a gaming operator and therefore does not provide the services provided by operators compared, and its purely informational purposes. Notwithstanding the foregoing, will eventually be able to offer the user the possibility to enter directly on the websites of the different operators compared game through links, banners and / or advertising space. <br> Provides information BesGam.com and compares prices and conditions offered exclusively by gaming operators with proven solvency, evidencing complete safety for its users, they are transparent in both its operation and in its payment procedures, and have the corresponding authorization certificate issued by the authority responsible for the regulation the game in Spain, in accordance with the provisions of the current Law 13/2011, of 27 May, regulating the General Directorate Juego.La game (DGOJ) has created the logo 'play safe' to identify all licensed operators. All bookmakers we work in Besgam.com have this hallmark. <br> All information contained in this website is reviewed and carefully updated to adapt all its contents to the current legal framework.",
+            "text3": "3. Acquisition of the status of User <br> will be considered to User any natural person accessing the website and use the services provided, and from such access and / or use, accept the Terms and Conditions of Use listed here. <br> Given that the law prohibits the involvement of minors in gambling activities that provided by third parties, are being compared in this website, access to comparative information provided by BesGam.com and acquiring user status are reserved exclusively for over 18 years.",
+            "text4": "4. Responsibility <br> The information provided by BesGam (such as quotas, bonuses, promotions, etc.) has as its source the public data provided by gaming operators in their respective electronic offices, and is regularly updated. However, due to the continuous changes in quotas and current promotions, there may be slight differences. Best Option Games S.L., responsible for BesGam.com, will all the technical means and act with the utmost diligence to provide the proper date information, avoiding differences between the fees shown on this website and those offered by gaming operators. <br> Notwithstanding the foregoing, or Best Option Games S.L. nor any person associated with BesGam.com or Best Option Games S.L. They will accept any responsibility regarding the accuracy, quality or reliability of the information provided by gaming operators, or assume any damage and / or damage that may occur as a result of the use (or misuse) of quotas, promotions or information displayed on this website, regardless of how the damage and / or damage was caused. <br> BesGam.com not guarantee a profit and can not be held liable for losses caused by the use of information obtained on the web.",
+            "text5": "5. Law and Jurisdiction <br> These conditions are governed by and construed in accordance with Spanish legislation in matters not expressly stated. The parties agree to submit any dispute that may arise in relation to services covered by these Conditions, the Courts and Tribunals in accordance with the rules of legal application."
+        }
+    },
+    "help": {
+        "menu": {
+            "faq": {
+               "name": "FREQUENT QUESTIONS",
+               "title": "Go to the FAQ besgam" ,
+               "headName": "Help / FAQs"
+            },
+            "market": {
+                "name": "MARKETS",
+                "title": "Go to sports betting markets besgam" ,
+                "headName": "Help / Markets"
+            },
+            "glossary": {
+                "name": "GLOSSARY",
+                "title": "Go to glossary of besgam for this match",
+                "headName": "Help / Glossary" 
+            }
+        },
+        "faq":{
+            "title1": "¿Qué es BESGAM?",
+            "text1": "BesGam es un buscador/comparador de cuotas de apuestas deportivas, no es una Casa de Apuestas, te indicamos que Casa de Apuestas está pagando la mejor cuota para la apuesta que quieres realizar.Además queremos ser el punto de encuentro para todos los interesados en las apuestas deportivas, facilitándote la información, y herramientas para que hagas que tus apuestas sean más interesantes y rentables. Cuotas.",
+            "title2": "¿Como funciona BESGAM?",
+            "text2": "Es muy sencillo, escribe en el buscador el nombre del equipo, competición, partido o evento al que quieras apostar, y BesGam, te mostrara todas las opciones que incluya en tu búsqueda, también puedes acotar más las opciones disponibles y encontrar más rápidamente tu apuesta utilizando los filtros que hay disponibles a la derecha de la barra del buscador.<br>Por si no tienes decidido a que evento/partido quieres apostar, te mostramos en la página de inicio, los más destacados de la jornada.<br>Una vez que hayas seleccionado el evento/partido al que quieres apostar, haz click y te mostraremos la página de los mercados disponibles para dicho evento/partido. En los mercados te mostramos la cuota más alta y la Casa de Apuestas que la ofrece, y si haces click sobre el logo de la Casa de Apuestas, te llevará directamente a que puedas hacer tu apuesta en la web de la Casa de Apuestas. Pero si quieres saber la cuota que están dando el resto de Casas de apuestas, solo tienes  que hacer click en a la derecha del logo de la mejor cuota mostrada inicialmente, y te mostraremos las cuotas del resto de Casas de Apuestas, y si prefieres apostar en una de ellas, haz click sobre su logo y te enviaremos a su web para que puedas realizar tu apuesta.",
+            "title3": "¿Como hago mi apuesta?",
+            "text3": "Una vez hayas seleccionado la cuota que más te interesa, al hacer click sobre el logo de la Casa de Apuestas, te enviamos a la propia web de la Casa de Apuestas, y una vez allí, tendrás que cumplir sus requisitos para poder hacer tu apuestas (registrarte, crear tu cuenta y realizar la apuesta). ",
+            "title4": "¿Es gratuito utilizar BESGAM?",
+            "text4": "Si, nuestro servicio es completamente gratuito y ni siquiera necesita registrarse con nosotros para utilizarlo.",
+            "title5": "¿Es seguro utilizar BESGAM?",
+            "text5": "Al hacer clic en el logo de la Casa de Apuestas que tiene la cuota que quieras seleccionar, te llevará directamente a la web de la Casa de Apuestas que son entornos seguros en los que se cifran las transferencias de datos. BesGam solo muestra las casas de apuestas que cumplan con los criterios de seguridad y fiabilidad, y que tenga la pertinente licencia de juego en el país. Ver Condiciones Generales.",
+            "title6": "¿Son exactas las cuotas?",
+            "text6": "Recibimos las cuotas directamente de las Casas de Apuestas, utilizando la última tecnología para garantizar la publicación de las mismas prácticamente en tiempo real, es decir, si la Casa de Apuestas actualiza la cuota, nosotros la actualizamos inmediatamente. Todas las cuotas que se muestran siguen siendo propiedad y responsabilidad de las propias Casas de Apuestas. Ver Condiciones Generales.",
+            "title7": "¿Qué es una Surebet?",
+            "text7": "Una Surebet es una apuesta segura que permite al usuario ganar dinero sin riesgo. Es decir, se apuestan unas cantidades de dinero a todos los posibles resultados de un evento, y suceda lo que suceda, el dinero que se gana es siempre superior a la cantidad que se invierte.",
+            "title8": "¿Cómo funcionan las Surebets?",
+            "text8": "Nuestro buscador de Surebets rastrea las cuotas de todas las Casas de Apuestas acerca de un evento y mercado concreto. A continuación, ofrecemos a los usuarios las mejores cuotas posibles para formar una apuesta segura. De este modo, en base a la cantidad que el usuario decide apostar, indicamos cuánto se debe apostar a las diferentes opciones de la apuesta (por ejemplo, acerca de quién gana un partido de fútbol tendremos tres posibilidades: vence el equipo A, haya un empate o gana el equipo B) para conseguir siempre un beneficio. <br>Se trata de una Surebet cuando las ganancias que se obtienen son mayores a lo invertido. Es decir, cuando un usuario compensa las pérdidas de las opciones erradas con la cantidad ganada al acertar la apuesta.<br>Sin embargo, siempre es recomendable que los jugadores comprueben las cuotas definitivas en las Casas de Apuestas antes de realizar la Surebet. Una actualización de última hora en la cuota de un portal de juego puede no estar recogida en BESGAM (los cambios no se actualizan de manera instantánea), y este cambio podría hacer que la Surebet deje de ser una apuesta segura.",
+            "title9": "¿Cuándo se da una Surebet?",
+            "text9": "Las Surebets no se dan en todas las apuestas. Son un tipo de apuesta poco común y que se encuentra por medio de los buscadores de Surebets, que combinan las diferentes cuotas de todas las casas de apuestas hasta llegar a la combinación posible para que se produzca y nos muestra con la que obtenemos mayor beneficio con nuestra apuesta."
+            ,"title10": "¿Cuánto se gana?",
+            "text10": "Depende del tipo de Surebet, pero estas apuestas tienen un margen de beneficio inferior a las apuestas regulares, aunque el riesgo de perder dinero es mínimo. No hay una cantidad fija de ganancia puesto que es una apuesta que varía en base a las cuotas. Sin embargo, en ocasiones extraordinarias, un jugador se puede encontrar una rentabilidad de hasta un 18%.",
+            "title11": "¿Tienen trampa las Surebets?",
+            "text11": "No hay trampa alguna. Con una Surebet el usuario apuesta a todas las posibilidades de un evento y mercado concreto. De este modo siempre se acierta la apuesta. El beneficio se obtiene cuando el dinero que se obtiene del acierto supera la suma invertida en las opciones erradas.",
+            "title12": "¿Son ilegales estas apuestas?",
+            "text12": "No. Las Casas de Apuestas deportivas no prohíben el uso de estrategias para apostar a Surebets. Cada cliente es libre y autónomo de encontrar mecanismos para asegurar sus ganancias, pero las Surebets no son ilegales ni fraudulentas.",
+            "title13": "¿Quién usa las Surebets?",
+            "text13": "Este tipo de apuestas las suelen utilizar aquellos jugadores que buscan obtener una ganancia fija, sin importarle el tiempo invertido, pero siempre con una rentabilidad y un riesgo mínimo. De este modo, las Surebets son las apuestas ideales para los jugadores que quieren ir incrementando su bank (cantidad de dinero que dedicamos a las apuestas o al juego) de manera constantemente y segura, para realizar más tarde apuestas más arriesgadas, que ofrecen mayor rentabilidad.",
+            "title14": "¿Qué estrategias utilizar con las Surebets?",
+            "text14": "Los beneficios en las Surebets suelen estar relacionados con las cantidades apostada. Puesto que es una apuesta segura sin apenas riesgo la rentabilidad es menor al resto de apuestas. Si un jugador quiere obtener unos beneficios más elevados deberá realizar una inversión muy elevada.<br><br>Si un jugador no dispone de un gran capital no es un problema, hay una estrategia eficaz para incrementar su bank con cada apuesta. Por ejemplo, si se dispone de 100€ apostarlo a una Surebet que tenga una rentabilidad de por ejemplo, el 8%. De este modo, el jugador obtendría 8€ de beneficio y parte de estas ganancias se debería destinar para incrementar nuestro bank y generar más beneficios. La siguiente apuesta Surebet, apostamos por ejemplo 104€ y guardamos la otra mitad como beneficio real. En la segunda apuesta, si encontramos otra de rentabilidad 8% ganaremos 8,32€ en vez de los 8€ de la primera apuesta..<br><br>No es un gran incremento, aunque sí es constante y lo más importante, es seguro. Repitiendo este proceso una y otra vez, lograremos aumentar de forma considerable nuestro capital y por tanto, nuestros beneficios sin asumir riesgos."
+        },
+        "marketHelp": {
+            "submenu": {
+                "football": {
+                    "name":"Fútbol",
+                    "title": "Ver mercados de resultados futbol besgam"
+                },
+                "basket": {
+                    "name":"Basket",
+                    "title": "Ver mercados apuestasdeportivas basket"
+                },
+                "formula1": {
+                    "name":"Automovilismo",
+                    "title": "Ver mercados formula1"
+                },
+                "moto": {
+                    "name":"Motociclismo",
+                    "title": "Ver mercados apuestas motogp besgam"
+                },
+                "tennis": {
+                    "name":"Tenis",
+                    "title": "Ver mercados de tenis besgam"
+                },
+                "cycling": {
+                    "name":"Ciclismo",
+                    "title": "Ver mercados de ciclismo besgam"
+                },
+                "boxing": {
+                    "name":"Boxeo",
+                    "title": "Ver mercados de boxeo besgam"
+                }
+
+            },
+            "markets": {
+                "mFootball":{
+                    "icons1":{
+                        "alt": "Icono mercado resultados futbol 1x2",
+                        "title": "Mercado resultados futbol 1x2"
+                    },
+                    "title1": "Resultado 1X2",
+                    "description1" :"Apostar por quien es el ganador del partido o si habrá empate (local=1, empate=x, visitante=2). Este mercado se basa en el marcador a tiempo completo (los términos 'tiempo completo', '90 minutos de juego' y 'tiempo reglamentario' se usan para denominar el periodo de juego que incluye el tiempo de descuento, sin incluir la prórroga, la tanda de penaltis, etc...). <br><b>Ejemplo</b>: En un partido el resultado final puede ser Local ganador por 3-2, pero en la primera parte puede ser el resultado ganador Local por 3-0, y en la segunda parte el ganador puede ser Visitante por 0-2 a pesar de perder el partido. ",
+                    
+                    "icons2":{
+                        "alt": "Icono mercado futbol primera parte",
+                        "title": "Mercado futbol primera parte"
+                    },
+                    "title2": "Resultado 1X2 – Primera Parte",
+                    "description2" :"Apuesta al resultado del partido al final de la primera parte: Es decir, quién será el ganador de la primera mitad o si habrá empate  al descanso (local=1, empate=x, visitante=2). También se conoce como Halftime<br><b> Ejemplo</b>: En un partido el resultado final puede ser local ganador por 3-2, pero en la primera parte puede ser el resultado ganador local por 3-0, y en la segunda parte el ganador puede ser visitante por 0-2 a pesar de perder el partido. ",
+                    
+                    "icons3":{
+                        "alt": "Icono mercado futbol deportes segunda parte",
+                        "title": "Mercado futbol deportes segunda parte"
+                    },
+                    "title3": "Resultado 1X2 – Segunda Parte",
+                    "description3" :"Apuesta al resultado del partido sólo en la segunda parte. E s decir, quién será el ganador de la segunda mitad o si habrá empate  al descanso (local=1, empate=x, visitante=2).<br><b> Ejemplo</b>: En un partido el resultado final puede ser Local ganador por 3-2, pero en la primera parte puede ganar el local 3-0, y en la segunda parte el vencedor puede ser visitante por 0-2, con lo que tu apuesta será ganadora.",
+
+                    "icons4":{
+                        "alt": "Icono mercado futbol deportes Doble Oprotunidad",
+                        "title": "Mercado futbol deportes Doble Oprotunidad"
+                    },
+                    "title4": "Doble Oprotunidad",
+                    "description4" :"Una apuesta con dos pronósticos para el mismo encuentro. Permite apostar por dos de los tres resultados posibles. Lo positivo de esta fórmula es que al ampliar el pronóstico a dos resultados posibles se reduce el riesgo a perder la apuesta. Sin embargo, la consecuencia negativa es que la cuota es inferior. Ejemplo: En un partido de fútbol, se puede apostar por la victoria local y el empate al mismo tiempo. Se gana la apuesta si gana el equipo local o si hay un empate en el partido.",
+
+                    "icons5":{
+                        "alt": "Icono primera parte final besgam comparador de apuestas deportivas",
+                        "title": "Mercado primera parte final besgam comparador de apuestas deportivas"
+                    },
+                    "title5": "Descanso/final",
+                    "description5" :"Apuestas no sólo al resultado definitivo al final del partido o evento sino también a la mitad del mismo. Es la combinación entre el resultado al término de la primera parte, y el resultado al final del partido o evento en los deportes que se dividen en dos tiempos. <br>Como hay nueve posibles combinaciones, las cuotas son mucho más altas que con la apuesta estándar sobre el resultado final. <be>La mayoría de las cuotas para este mercado se generan basándose en una tabla de las cuotas para el partido principal, por lo que si un equipo que es favorito tendrá también cuotas bajas para ir ganando al término de la primera parte.  ",
+
+                    "icons6":{
+                        "alt": "Imagen marcador final todo apuestas",
+                        "title": "Marcador final todo apuestas"
+                    },
+                    "title6": "Marcador exacto",
+                    "description6" :"Apuesta al resultado exacto de un encuentro, simplemente, consiste en adivinar el número de goles que meterá cada equipo durante el partido completo. <br>Este mercado se basa en el marcador al tiempo completo (los términos 'tiempo completo', '90 minutos de juego' y 'tiempo reglamentario' se usan para denominar el periodo de juego que incluye el tiempo de descuento, sin incluir la prórroga, la tanda de penaltis, etc...).",  
+
+                    "icons7":{
+                        "alt": "Imagen marcador primera parte todo apuestas",
+                        "title": "Marcador primera parte todo apuestas"
+                    },
+                    "title7": "Marcador exacto 1ª mitad",
+                    "description7" :"Apuesta al resultado exacto sólo de la primera parte de un encuentro, simplemente, consiste en adivinar los goles que meterá cada equipo durante la primera mitad del partido. <br><b> Ejemplo</b>: En la primera parte de un encuentro el marcador puede ser local 1-visitante 0, siendo nuestra apuesta únicamente  a esta 1ª parte, y el resultado final al terminar el partido puede ser local 1–2 visitante, por lo que si queremos apostar por el resultado final del partido deberemos ir al mercado Marcador exacto.",  
+
+                    "icons8":{
+                        "alt": " Imagen marcador exacto 2 mitad todo apuestas",
+                        "title": "Marcador exacto 2 mitad todo apuestas"
+                    },
+                    "title8": "Marcador exacto 2ª mitad",
+                    "description8" :"Apuesta al resultado exacto sólo de la segunda parte de un encuentro, simplemente, consiste en adivinar los goles que meterá cada equipo durante la segunda mitad del partido.  <br><b> Ejemplo</b>: En la primera parte de un encuentro el marcador puede ser local 1-visitante 0, y nosotros apostar a que la segunda mitada acabará 1-1. El resultado global será 2-1, pero sólo nos fijamos en lo que suceda en la segunda parte. Si queremos apostar al resultado de todo el choque tendremos que apostar en el mercado Marcador exacto.",
+
+                    "icons9":{
+                        "alt": "ver mercado ambos equipos marcan besgam comparador de apuestas deportivas",
+                        "title": "ver mercado ambos equipos marcan besgam comparador de apuestas deportivas"
+                    },
+                    "title9": "¿Marcarán los dos equipos en el partido?",
+                    "description9" :"Apuesta a que los dos equipos marcan o no lo hacen a lo largo del partido. Es independiente del número de goles que marquen y del resultado, solo importa si los dos equipos anotan o no lo hacen, en función de lo que se haya apostado.",
+
+                    "icons10":{
+                        "alt": "mercado goles mas de menos de apuestas besgam",
+                        "title": "mercado goles mas de menos de apuestas besgam"
+                    },
+                    "title10": "Goles Mas de / Menos de",
+                    "description10" :"Apostar 'Más de' es apostar a más de un número total de goles, y apostar 'Menos de' es apostar a menos de un número total de goles.  También se le conoce como<b> Over/Under</b>. <br><b> Ejemplo</b>: Si en fútbol se ofrecen más/menos 2,5 goles. Se gana una apuesta 'Menos' si en el partido se marcan dos goles como máximo y se pierde si se marcan tres goles o más.",
+
+                    "icons11":{
+                        "alt": "Goles Mas de / Menos de – 1er tiempor apuestas deportivas",
+                        "title": "Goles Mas de / Menos de – 1er tiempo apuestas deportivas"
+                    },
+                    "title11": "Goles Mas de / Menos de – 1er tiempo",
+                    "description11" :"Este mercado sólo hace referencia a lo que suceda durante la primera mitad.Apostar 'Más de' es apostar a más de un número total de goles, y apostar 'Menos de' es apostar a menos de un número total de goles.   También se le conoce como<b> Over/Under</b>. <br><b> Ejemplo</b>: Si en fútbol se ofrecen más/menos 2,5 goles. Se gana una apuesta 'Menos' si en el partido se marcan dos goles como máximo y se pierde si se marcan tres goles o más. ",
+
+                    "icons12":{
+                        "alt": "Goles Mas de / Menos de – 2º tiempo  apuestas deportivas",
+                        "title": "Goles Mas de / Menos de – 2º tiempo  apuestas deportivas"
+                    },
+                    "title12": "Goles Mas de / Menos de – 2º tiempo ",
+                    "description12" :"Este mercado sólo hace referencia a lo que suceda durante la segunda mitad. Apostar 'Más de' es apostar a más de un número total de goles, y apostar 'Menos de' es apostar a menos de un número total de goles.    También se le conoce como<b> Over/Under</b>. <br><b> Ejemplo</b>: Si en fútbol se ofrecen más/menos 2,5 goles. Se gana una apuesta 'Menos' si en el partido se marcan dos goles como máximo y se pierde si se marcan tres goles o más.",
+
+                    "icons13":{
+                        "alt": "handicap besgam futbol",
+                        "title": "handicap besgam futbol"
+                    },
+                    "title13": "Handicap",
+                    "description13" :"El hándicap son puntos que se suman al no favorito del evento (underdog/dog) o se restan al favorito, así se consigue equilibrar la posibilidad de victoria. Cuando se incluye una ventaja de un gol o más para el equipo inferior a priori y permite asimilar las cuotas. Esta fórmula suele utilizarse cuando los contendientes están notablemente desnivelados.<br><b> Ejemplo</b>: En fútbol un Hándicap -1 para un equipo significa que en lugar de 0-0 empieza el partido perdiendo 1-0 o que al final del partido se le restará un gol que deberá compensar a lo largo del choque. Es decir, para ganar la apuesta el equipo con Hándicap tendrá que ganar por dos goles o más.  ",
+
+                    "icons14":{
+                        "alt": "primer goleador apuestas deportivas",
+                        "title": "primer goleador apuestas deportivas"
+                    },
+                    "title14": "Primer Goleador",
+                    "description14" :"Se apuesta a que jugador será el primero en marcar un gol en el partido. Las cuotas que se ofertan por el primer futbolista en anotar un tanto. Estas cuotas suelen oscilar entre los 3 y los 50 euros, aunque pueden ser más altas en el caso de aquellos futbolistas menos habituales a la hora de hacer goles. ",
+
+                    "icons15":{
+                        "alt": "ganador competicion resultados futbol besgam",
+                        "title": "ganador competicion resultados futbol besgam"
+                    },
+                    "title15": "Ganador Competición",
+                    "description15" :"Se apuesta a que equipo ganará la competición al final de la misma. Es una apuesta a largo plazo. "                
+                },
+                "mBasket":{
+                    "icons1":{
+                        "alt": "ver mercado Ganador del partido",
+                        "title": "ver mercado Ganador del partido"
+                    },
+                    "title1": "Ganador del partido",
+                    "description1" :"Apostar por quien es el ganador en tras los 40 minutos de juego (48 en la NBA) reglamentarios del partido. No se tiene en cuenta si hay prórroga<br><b>Ampliado</b>: Apostar por quien es el ganador del partido. Este mercado se basa en el marcador a tiempo completo, es decir, a la conclusión de los 40 minutos en baloncesto FIBA y 48 minutos reglamentarios en baloncesto NBA. La prórroga no está incluida en esta apuesta.",
+
+                    "icons2":{
+                        "alt": "ver mercado basket Hándicap",
+                        "title": "ver mercado baloncesto Hándicap"
+                    },
+                    "title2": "Hándicap",
+                    "description2" :"El hándicap son puntos que se suman o restan a un equipo o jugador para equilibrar la diferencia entre ellos e igualar las posibilidades de victoria.  Esta fórmula suele utilizarse cuando los contendientes están notablemente desnivelados a priori, sobre todo en el baloncesto, para aumentar la cuota, ya que dificultan el pronóstico simple.<br><b> Ejemplo</b>: Si se apuesta por un equipo con hándicap +10 le estaremos dando una ventaja inicial de 10 puntos. La apuesta resultará ganadora siempre y cuando que pierda por como máximo 9 puntos o cuando gane el choque.",
+
+                    "icons3":{
+                        "alt": "ver mercado basket Ganador de la competición",
+                        "title": "ver mercado baloncesto Ganador de la competición"
+                    },
+                    "title3": "Ganador de la competición",
+                    "description3" :"Se apuesta a que equipo ganará la competición al final de la misma. Es una apuesta a largo plazo."
+                },
+                "mAuto":{
+                    "icons1":{
+                        "alt": "ver mercado Ganador de un GP",
+                        "title": "ver mercado Ganador de un GP"
+                    },
+                    "title1": "Ganador de un GP",
+                    "description1" :"Se apuesta al piloto que va alzarse con la victoria cuando finalice la carrera del domingo.",
+
+                    "icons2":{
+                        "alt": "ver mercado Clasificación de un GP",
+                        "title": "ver mercado Clasificación de un GP"
+                    },
+                    "title2": "Clasificación de un GP",
+                    "description2" :"Apuesta al piloto que conseguirá la pole. A quién se clasificará en primer lugar para la carrera que decidirá el gran premio.",
+
+                    "icons3":{
+                        "alt": "ver mercado ¿Saldrá el safety car?",
+                        "title": "ver mercado ¿Saldrá el safety car?"
+                    },
+                    "title3": "¿Saldrá el safety car?",
+                    "description3" :"Se apuesta 'sí' o 'no' a si el coche de seguridad tendrá que salir a la pista porque ha habido un accidente.",
+
+                    "icons4":{
+                        "alt": "ver mercado Ganador de la competición (pilotos)",
+                        "title": "ver mercado Ganador de la competición (pilotos)"
+                    },
+                    "title4": "Ganador de la competición (pilotos)",
+                    "description4" :"La apuesta va dirigida a qué piloto ganará la competición al final de la misma. Es una apuesta a largo plazo.",
+
+                    "icons5":{
+                        "alt": "ver mercado Ganador de la competición (escudería)",
+                        "title": "ver mercado Ganador de la competición (escudería)"
+                    },
+                    "title5": "Ganador de la competición (escudería)",
+                    "description5" :"La apuesta va dirigida a qué escudería ganará la competición al final de la misma. Es una apuesta a largo plazo"
+                },
+                "mMoto":{
+                    "icons1":{
+                        "alt": "ver mercado Ganador de un GP",
+                        "title": "ver mercado Ganador de un GP"
+                    },
+                    "title1": "Ganador de un GP",
+                    "description1" :"Se apuesta al piloto que va alzarse con la victoria cuando finalice la carrera.",
+
+                    "icons2":{
+                        "alt": "ver mercado Clasificación de un GP",
+                        "title": "ver mercado Clasificación de un GP"
+                    },
+                    "title2": "Clasificación de un GP",
+                    "description2" :"Se apuesta al piloto que conseguirá la pole. A quién se clasificará en primer lugar para la carrera que decidirá el gran premio.",
+
+                    "icons3":{
+                        "alt": "ver mercado Ganador de la competición (pilotos)",
+                        "title": "ver mercado Ganador de la competición (pilotos)"
+                    },
+                    "title3": "Ganador de la competición (pilotos)",
+                    "description3" :"Se apuesta a que piloto ganará la competición al final de la misma. Es una apuesta a largo plazo."
+                },
+                "mTennis":{
+                    "icons1":{
+                        "alt": "ver mercado Ganador del partido",
+                        "title": "ver mercado Ganador del partido"
+                    },
+                    "title1": "Ganador del partido",
+                    "description1" :"Apostar por el jugador que ganará el encuentro. En función del tipo de partido y la competición. El partido será al mejor de tres o de cinco sets.",
+
+                    "icons2":{
+                        "alt": "ver mercado Ganador de la competición",
+                        "title": "ver mercadoGanador de la competición"
+                    },
+                    "title2": "Ganador de la competición",
+                    "description2" :"Se apuesta a que tenista ganará la competición al final de la misma. Es una apuesta a largo plazo."
+                },
+                "mCycling":{
+                    "icons1":{
+                        "alt": "ver mercado Ganador de etapa",
+                        "title": "ver mercado Ganador de etapa"
+                    },
+                    "title1": "Ganador de etapa",
+                    "description1" :"Apostar por el ciclista que conseguirá la victoria al finalizar la etapa en cuestión.",
+
+                    "icons2":{
+                        "alt": "ver mercado Ganador de la competición",
+                        "title": "ver mercadoGanador de la competición"
+                    },
+                    "title2": "Ganador de la competición",
+                    "description2" :"Se apuesta a que ciclista que ganará la competición al final de la misma. Es una apuesta a largo plazo."
+                },
+                 "mBoxing":{
+                    "icons1":{
+                        "alt": "ver mercado Ganador del combate",
+                        "title": "ver mercado Ganador del combate"
+                    },
+                    "title1": "Ganador del combate",
+                    "description1" :"Se apuesta a qué púgil será el vencedor del combate. Este mercado ofrece también la posibilidad de que el combate termine en empate."
+                }
+            }
+        },
+        "glossary":{
+                "alphabetA": {
+                    "letter": "A",
+                    "icons1": {
+                        "alt": "Icono explicacion all in",
+                        "title": "Que es all in apuestas online"
+                    },
+                    "title1": "All Inn",
+                    "description1": " Se dice cuando alguien mete todo el dinero en una sola apuesta.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Apuesta Contrapartida",
+                        "title": "Que es Apuesta Contrapartida apuestas online"
+                    },
+                    "title2": "Apuesta Contrapartida",
+                    "description2": "Aquella en la que el usuario apuesta contra la casa de apuestas, siendo el premio el resultante de multiplicar el importe apostado por el coeficiente que la casa de apuestas ha establecido para la apuesta.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Apuesta Cruzada",
+                        "title": "Que es Apuesta Cruzada apuestas online"
+                    },
+                    "title3": "Apuesta Cruzada",
+                    "description3": "Aquella que se realiza entre usuarios, actuando la casa de apuestas como intermediaria y garante de las cantidades apostadas.",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Apuesta Mutua",
+                        "title": "Que es Apuesta Mutua apuestas online"
+                    },
+                    "title4": "Apuesta Mutua",
+                    "description4": " Aquella en la que un porcentaje de la suma de las cantidades apostadas sobre un acontecimiento determinado, se distribuye entre los acertantes de modo proporcional al importe apostado. ",
+
+                    "icons5": {
+                        "alt": "Icono explicacion Apuesta Combinada",
+                        "title": "Que es Apuesta Combinada apuestas online"
+                    },
+                    "title5": "Apuesta Combinada",
+                    "description5": " Seleccionamos tantos pronósticos como consideremos oportunos y los convertimos en una única apuesta en la que solo ganaremos si acertamos todos los pronósticos. La cuota vendrá dada por la multiplicación de todas las cuotas de todos los eventos. Se puede agrupar hasta veinte pronósticos (12 pronósticos en apuestas live) en diversos eventos deportivos en una apuesta combinada y apostar desde un mínimo de 0,50€.  ",
+
+                    "icons6": {
+                        "alt": "Icono explicacion Apuesta con Hándicap/Spreads",
+                        "title": "Que es Apuesta con Hándicap/Spreads apuestas online"
+                    },
+                    "title6": "Apuesta con Hándicap/Spreads",
+                    "description6": " El hándicap son puntos que se suman al No Favorito del evento (underdog/dog) o se restan al favorito, así se consigue equilibrar la posibilidad de victoria. Cuando se incluye una ventaja de un gol o más para el equipo inferior a priori y permite asimilar las cuotas.",
+
+                    "icons7": {
+                        "alt": "Icono explicacion Apuesta con Hándicap Asiático",
+                        "title": "Que es Apuesta con Hándicap Asiático apuestas online"
+                    },
+                    "title7": "Apuesta con Hándicap Asiático",
+                    "description7": " Es similar a la apuesta con hándicap, pero su finalidad es evitar el empate, en caso de que se produzca la apuesta es nula y se devuelve el dinero. ",
+
+                    "icons8": {
+                        "alt": "Icono explicacion Apuesta de Intercambio",
+                        "title": "Que es Apuesta de Intercambio apuestas online"
+                    },
+                    "title8": "Apuesta de Intercambio",
+                    "description8": " Las apuestas se realizan contra otro jugador.",
+
+                    "icons9": {
+                        "alt": "Icono explicacion Apuesta de Sistema",
+                        "title": "Que es Apuesta de Sistema apuestas online"
+                    },
+                    "title9": "Apuesta de Sistema",
+                    "description9": "Es un tipo de apuesta combinada, pero más dinámica. No se depende de que se acierten todos los pronósticos de la apuesta para ganar. Se debe acertar un mínimo de resultados para ganar dinero, cuantos más resultados se acierten, más dinero se gana. En el caso de que no se acierten todos los pronósticos se recupera una parte del dinero que se apostó. ",
+
+                    "icons10": {
+                        "alt": "Icono explicacion Apuesta Doble",
+                        "title": "Que es Apuesta Doble apuestas online"
+                    },
+                    "title10": "Apuesta Doble",
+                    "description10": "Combinada de dos apuestas.",
+
+                    "icons11": {
+                        "alt": "Icono explicacion Apuesta Simple",
+                        "title": "Que es Apuesta Simple apuestas online"
+                    },
+                    "title11": "Apuesta Simple",
+                    "description11": "Es la apuesta más simple. Las apuestas que realizamos de manera habitual. Solo hay que acertar el resultado. Elegimos una selección y un stake determinado a partir de nuestro bankroll. ",
+
+                    "icons12": {
+                        "alt": "Icono explicacion Apuesta en Directo (Live)",
+                        "title": "Que es Apuesta en Directo (Live) apuestas online"
+                    },
+                    "title12": "Apuesta en Directo (Live)",
+                    "description12": "Las apuestas LIVE son apuestas en tiempo real, se puede apostar mientras se celebra el acontecimiento deportivo, en algunos acontecimientos se pueden ver en vídeo o audio. Las cuotas son dinámicas en el Chat en directo, las informaciones del evento y otros datos especiales convierten este tipo de apuestas en toda una diversión interactiva.",
+
+                    "icons13": {
+                        "alt": "Icono explicacion Arbitraje (Surebets)",
+                        "title": "Que es Arbitraje (Surebets) apuestas online"
+                    },
+                    "title13": "Arbitraje (Surebets)",
+                    "description13": "Aprovechar las diferentes cuotas de diversas casas de apuesta para hacer una apuesta ganadora segura sin importar el resultado final del evento. También se conoce como <b>surebets</b>."
+                },
+
+                "alphabetB": {
+                    "letter": "B",
+                    "icons1": {
+                        "alt": "Icono explicacion Back",
+                        "title": "Que es Back apuestas online"
+                    },
+                    "title1": "Back",
+                    "description1": "Compra de una apuesta en un intercambio de apuestas.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Back Beat",
+                        "title": "Que es Back Beat apuestas online"
+                    },
+                    "title2": "Back Beat",
+                    "description2": "Expresión que se utiliza para denominar una racha de pérdidas continuada.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Banker",
+                        "title": "Que es Banker apuestas online"
+                    },
+                    "title3": "Banker",
+                    "description3": "Apuesta segura, que ofrece una probabilidad alta de éxito.",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Bankroll",
+                        "title": "Que es Bankroll apuestas online"
+                    },
+                    "title4": "Bankroll",
+                    "description4": "Cantidad de dinero que hay en depósito en una casa de apuestas para invertir en pronósticos.",
+
+                    "icons5": {
+                        "alt": "Icono explicacion Bet",
+                        "title": "Que es Bet apuestas online"
+                    },
+                    "title5": "Bet",
+                    "description5": "Apuesta.",
+
+                    "icons6": {
+                        "alt": "Icono explicacion Betting Exchange (Intercambio de apuestas)",
+                        "title": "Que es Apuesta con Betting Exchange (Intercambio de apuestas) apuestas online"
+                    },
+                    "title6": "Betting Exchange (Intercambio de apuestas)",
+                    "description6": "Un Betting Exchange es una página web donde los apostantes intercambian apuestas de forma anónima. El Betting Exchange sólo se lleva una comisión sobre los beneficios de los apostantes. Esta comisión puede ser de entre el 2% y el 5%.",
+
+                    "icons7": {
+                        "alt": "Icono explicacion Bonus",
+                        "title": "Que es Bonus apuestas online"
+                    },
+                    "title7": "Bonus",
+                    "description7": "Estímulo que se ofrece a los clientes de una casa de apuestas para que se impliquen en la captación de nuevos apostantes o la cantidad que se regala a los clientes nuevos o las ofertas para clientes veteranos como reconocimiento a su antigüedad.",
+
+                    "icons8": {
+                        "alt": "Icono explicacion Bookie",
+                        "title": "Que es Bookie apuestas online"
+                    },
+                    "title8": "Bookie",
+                    "description8": "Persona que fija las cuotas de un evento deportivo. En apuestas en directo se encarga de colocarlas según avanza el partido.",
+
+                    "icons9": {
+                        "alt": "Icono explicacion Bookmaker",
+                        "title": "Que es Bookmaker apuestas online"
+                    },
+                    "title9": "Bookmaker",
+                    "description9": "Empresa de apuestas deportivas.(Casa de Apuestas).",
+
+                    "icons10": {
+                        "alt": "Icono explicacion Buck",
+                        "title": "Que es Buck apuestas online"
+                    },
+                    "title10": "Buck",
+                    "description10": "Una apuesta de $100."
+                },
+                "alphabetC": {
+                    "letter": "C",
+                    "icons1": {
+                        "alt": "Icono explicacion Casas de Apuestas",
+                        "title": "Que es Casas de Apuestas apuestas online"
+                    },
+                    "title1": "Casas de Apuestas",
+                    "description1": "Existen dos tipos de casas de apuesta:<br>- Casas de apuesta de contrapartida; se apuesta contra la casa.<br>- Casas de intercambio; se apuesta a favor (back) o en contra (lay) de un determinado resultado en contra de otras personas.  ",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Chalk",
+                        "title": "Que es Chalk apuestas online"
+                    },
+                    "title2": "Chalk",
+                    "description2": "Una apuesta favorita.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Chalk Player",
+                        "title": "Que es Chalk Player apuestas online"
+                    },
+                    "title3": "Chalk Player",
+                    "description3": "Una persona que nomalmente juega a los equipos favoritos.",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Churn",
+                        "title": "Que es Churn apuestas online"
+                    },
+                    "title4": "Churn",
+                    "description4": "El efecto de apostar y reapostar dinero.",
+
+                    "icons5": {
+                        "alt": "Icono explicacion Comparativa",
+                        "title": "Que es Comparativa apuestas online"
+                    },
+                    "title5": "Comparativa",
+                    "description5": "Tabla que recoge el valor de las cuotas que ofrecen distintas casas para un mismo evento. Permite al apostante comprobar qué casa le ofrecería mayores beneficios.",
+
+                    "icons6": {
+                        "alt": "Icono explicacion Cubrir Apuestas",
+                        "title": "Que es Cubrir Apuestas apuestas online"
+                    },
+                    "title6": "Cubrir Apuestas",
+                    "description6": "Realizar una segunda apuesta sobre la opción perdedora para que si se falla la apuesta principal se minimizan las pérdidas. "
+                },
+                "alphabetD": {
+                    "letter": "D",
+                    "icons1": {
+                        "alt": "Icono explicacion Doble Resultado (Halftime/Fulltime)",
+                        "title": "Que es Doble Resultado (Halftime/Fulltime) apuestas online"
+                    },
+                    "title1": "Doble Resultado (Halftime/Fulltime)",
+                    "description1": "Apostar al resultado de un partido al final de la primera parte y al final del partido.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Dog",
+                        "title": "Que esDog apuestas online"
+                    },
+                    "title2": "Dog",
+                    "description2": "No favorito.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Draw no bet",
+                        "title": "Que es Draw no bet apuestas online"
+                    },
+                    "title3": "Draw no bet",
+                    "description3": "En caso de acabar en empate el evento se declara la apuesta nula y se devuelve el dinero."
+                },
+                "alphabetF": {
+                    "letter": "F",
+                    "icons1": {
+                        "alt": "Icono explicacion Fold",
+                        "title": "Que es Fold apuestas online"
+                    },
+                    "title1": "Fold",
+                    "description1": "Número de selecciones en una apuesta combinada. Por ejemplo, 3 fould es una combinada que incluye tres eventos deportivos."
+                },
+                "alphabetG": {
+                    "letter": "G",
+                    "icons1": {
+                        "alt": "Icono explicacion Getting Down",
+                        "title": "Que es Getting Down apuestas online"
+                    },
+                    "title1": "Getting Down",
+                    "description1": "Hacer una apuesta.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Gross Win",
+                        "title": "Que es Gross Win apuestas online"
+                    },
+                    "title2": "Gross Win",
+                    "description2": "Ganancias antes de gastos."
+                },
+                "alphabetH": {
+                    "letter": "H",
+                    "icons1": {
+                        "alt": "Icono explicacion H2H (Head to Head)",
+                        "title": "Que es H2H (Head to Head) apuestas online"
+                    },
+                    "title1": "H2H (Head to Head)",
+                    "description1": "Apuesta que se hace entre dos deportistas. Se suele ofrecer la posibilidad de elegir cuál es el mejor. Estas apuestas existen en disciplinas deportivas como Fórmula Uno o Esquí alpino.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Handicapper",
+                        "title": "Que es Handicapper apuestas online"
+                    },
+                    "title2": "Handicapper",
+                    "description2": "Persona que estudia, cataloga y apuesta en eventos deportivos y/o carreras de caballos.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Handle",
+                        "title": "Que es Handle apuestas online"
+                    },
+                    "title3": "Handle",
+                    "description3": "Monto total de las apuestas tomadas.",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Hedge / Hedging",
+                        "title": "Que es Hedge / Hedging apuestas online"
+                    },
+                    "title4": "Hedge / Hedging",
+                    "description4": "Apostar por ambos equipos en un partido para prevenir pérdidas o garantizar un beneficio mínimo.",
+
+                    "icons5": {
+                        "alt": "Icono explicacion Hot Tip",
+                        "title": "Que es Hot Tip apuestas online"
+                    },
+                    "title5": "Hot Tip",
+                    "description5": "Información a la cual el 'bookmaker' aún no tiene acceso."
+                },
+                "alphabetJ": {
+                    "letter": "J",
+                    "icons1": {
+                        "alt": "Icono explicacion Juice",
+                        "title": "Que es Juice apuestas online"
+                    },
+                    "title1": "Juice",
+                    "description1": "Es la comisión para el corredor de apuestas."
+                },
+                "alphabetL": {
+                    "letter": "L",
+                    "icons1": {
+                        "alt": "Icono explicacion Lay",
+                        "title": "Que es Lay apuestas online"
+                    },
+                    "title1": "Lay",
+                    "description1": "Venta de una apuesta en un intercambio de apuestas.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion LayOff",
+                        "title": "Que es LayOff apuestas online"
+                    },
+                    "title2": "LayOff",
+                    "description2": "Apuesta que se realiza por cualquier casa en una casa de la competencia con objeto de equilibrar el exceso de dinero que sus clientes han apostado a favor de un resultado determinado.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Longterm bet u Outright",
+                        "title": "Que es Longterm bet u Outright apuestas online"
+                    },
+                    "title3": "Longterm bet u Outright",
+                    "description3": "Apuesta a un evento deportivo a largo plazo. Ejemplo: ¿Quién ganará la Liga de Campeones?"
+                },
+                "alphabetM": {
+                    "letter": "M",
+                    "icons1": {
+                        "alt": "Icono explicacion Margen de Beneficios",
+                        "title": "Que es Margen de Beneficios apuestas online"
+                    },
+                    "title1": "Margen de Beneficios",
+                    "description1": "La casa de apuestas cobra una comisi&oacute;n del dinero apostado por los jugadores para asegurarse la rentabilidad econ&oacute;mica. El margen de una casa de apuestas es el beneficio que obtiene de las apuestas que ofrece sobre un evento deportivo. Este beneficio se representa mediante un porcentaje Se calcula de la siguiente manera:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Margen = (1/Cuota 1 + 1/Cuota 2 + ... + 1/Cuota n) – 1</strong><br>Ejemplo: Las cuotas son las siguientes:R.Madrid Empate F.C.Barcelona 1,8 3,3 3,5<br>Margen Beneficios = (1 / Cuota R.Madrid) + (1 / Cuota empate) + (1 / Cuota F.C.Barcelona) - 1<br>Margen Beneficios = (1 / 1,8) + (1/ 3,3) + (1 / 3,5) - 1 = 0,1443 = 14,43%<br>La remuneraci&oacute;n de la casa de apuestas en este partido es por lo tanto del 12,45% del total delas apuestas realizadas.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Movimiento de cuotas",
+                        "title": "Que es Movimiento de cuotas apuestas online"
+                    },
+                    "title2": "Movimiento de cuotas",
+                    "description2": "Como los cambios de cuotas, son habituales. Se producen porque hay nuevos datos sobre un evento."
+                },
+                "alphabetN": {
+                    "letter": "N",
+                    "icons1": {
+                        "alt": "Icono explicacionn Nap",
+                        "title": "Que es Nap apuestas online"
+                    },
+                    "title1": "Nap",
+                    "description1": "La mejor apuesta del día en opinión de un experto o tipster."
+                },
+                "alphabetO": {
+                    "letter": "O",
+                    "icons1": {
+                        "alt": "Icono explicacion Over/Under (Mas/Menos)",
+                        "title": "Que es Over/Under (Mas/Menos) apuestas online"
+                    },
+                    "title1": "Over/Under (Mas/Menos)",
+                    "description1": "Apostar Over (Más) es apostar a más de un número total de goles, y apostar Under (Menos) es apostar a menos de un número total de goles.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Odds",
+                        "title": "Que es Odds apuestas online"
+                    },
+                    "title2": "Odds",
+                    "description2": "Las cuotas, indican la probabilidad de que ocurra un evento.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Off the board",
+                        "title": "Que es Off the board apuestas online"
+                    },
+                    "title3": "Off the board",
+                    "description3": "Cuando el corredor no acepta más apuestas porque el evento ya ha comenzado.",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Overlay",
+                        "title": "Que es Overlay apuestas online"
+                    },
+                    "title4": "Overlay",
+                    "description4": "Cuando el precio en una proposición está más a favor del apostador que de la casa."
+                },
+                "alphabetP": {
+                    "letter": "P",
+                    "icons1": {
+                        "alt": "Icono explicacion Payout",
+                        "title": "Que es Payout apuestas online"
+                    },
+                    "title1": "Payout",
+                    "description1": "Es el beneficio que obtiene la casa de apuestas sin importar el resultado final.<br>Se calcula de la siguiente manera;<br>- Lo primero que debemos hacer es calcular la probabilidad de cada cuota.<br> - Las sumamos todas.<br>- Le restamos 100.<br>Ese es el porcentaje que gana la casa de apuesta de ese evento.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion P2P",
+                        "title": "Que es P2P apuestas online"
+                    },
+                    "title2": "P2P",
+                    "description2": "(Person to person) Apuestas establecidas entre apostantes individuales que deciden la cuota de mutuo acuerdo.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Picks",
+                        "title": "Que es Picks apuestas online"
+                    },
+                    "title3": "Picks",
+                    "description3": "Apuesta recomendada por un experto o tipster. Es sinónimo de pronóstico.",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Practical Hold Percentage",
+                        "title": "Que es OPractical Hold Percentage apuestas online"
+                    },
+                    "title4": "Practical Hold Percentage",
+                    "description4": "La cantidad ganada por un bookmaker dividida por el total pagado. "
+                },
+                "alphabetR": {
+                    "letter": "R",
+                    "icons1": {
+                        "alt": "Icono explicacionn Rollover",
+                        "title": "Que es Rollover apuestas online"
+                    },
+                    "title1": "Rollover",
+                    "description1": "Ganar mucho dinero."
+                },
+                "alphabetS": {
+                    "letter": "S",
+                    "icons1": {
+                        "alt": "Icono explicacion Score",
+                        "title": "Que es Score apuestas online"
+                    },
+                    "title1": "Score",
+                    "description1": "Ganar mucho dinero.",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Stake",
+                        "title": "Que es Stake apuestas online"
+                    },
+                    "title2": "Stake",
+                    "description2": "El dinero que se apuesta. Es un índice de la confianza que se le otorga a una apuesta, se expresa con X sobre 10.<br> - <b>Stake 1-2 (stake bajo)</b>; Apuestas complicadas, difíciles de acertar pero que están sobrevaloradas, las cuotas rondan el @4.00 y el @5.50. Este tipo de apuestas se dan en ciclismo, atletismo o apuestas a largo plazo, también es posible que se den a equipos poco favoritos. El problema de estos stakes es que son difíciles de encontrar cuando son interesantes.<br>- <b>Stake 3-4 (stake medio)</b>; Apuestas estándar, apuestas en las que tenemos confianza pero no tenemos una información precisa para el evento. En este tipo de apuestas se debe ver valor y creer que realmente hay probabilidades de acierto.<br>- <b>Stake 5-6 (stake algo)</b>; Apuestas más comunes, con cuotas no muy elevadas.<br>Son apuestas a favoritos que consideremos reúnan valor.<br>- <b>Stake 7-8 (stake alto)</b>; Apuestas que suponen una gran oportunidad, suelen ser fallos de las cuotas asignadas o apuestas que contamos con información privilegiada sobre ella.<br>- <b>Stake 9-10 (full stake)</b>; Apuestas que nunca deberíamos fallar, el problema de estos stakes es que no suelen ser interesantes con la cuota que ofrecen.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Steam",
+                        "title": "Que es Steam apuestas online"
+                    },
+                    "title3": "Steam",
+                    "description3": "Cuando el valor de una cuota cae con rapidez. Suele pasar cuando una gran cantidad de apostantes invierten su dinero a favor del mismo equipo o deportista. "
+                },
+                "alphabetT": {
+                    "letter": "T",
+                    "icons1": {
+                        "alt": "Icono explicacion Theoretical Hold Percentage",
+                        "title": "Que es Theoretical Hold Percentage apuestas online"
+                    },
+                    "title1": "Theoretical Hold Percentage",
+                    "description1": "El riesgo que el bookmaker pueda correr si los precios le garantizan una constante comisión sin importar los resultados",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Tipser",
+                        "title": "Que es Tipser apuestas online"
+                    },
+                    "title2": "Tipser",
+                    "description2": "Persona que ofrece sus pronósticos como profesional con beneficio o por altruismo.",
+
+                    "icons3": {
+                        "alt": "Icono explicacion Tipos de Cuota",
+                        "title": "Que es Tipos de Cuota apuestas online"
+                    },
+                    "title3": "Tipos de Cuota",
+                    "description3": "Las cuotas nos permiten calcular los posibles beneficios en caso de ganar la apuesta. Las cuotas son inversamente proporcionales a la probabilidad de victoria de un competidor del evento. <br>  Las cuotas las podemos encontrar en varios formatos:<br><br><br><u>FORMATO DECIMAL (o europeo)</u>: La cuota se presenta a trav&eacute;s de un n&uacute;mero entero. El beneficio se obtiene de multiplicar la cuota por la cantidad apostada. Si queremos conocer la probabilidad asignada por la casa de apuesta, debemos dividir uno entre la cuota.<br><br><br>Beneficio = cantidad apostada * (cuota – 1)<br>Ejemplo: Si una casa de apuestas la asigna al R.Madrid una probabilidad de victoria del 50% en un partido contra FC.Barcelona, la cuota que aparecerá ser&aacute; 2 (1/50%).<br><br><br><u>FORMATO FRACCIONARIO (o inglés)</u>: La cuota se presenta a través de una fracci&oacute;n. En ellas, el numerador indica las unidades de ganancia y eldenominador las unidades apostadas.<br><br><br>Beneficio = cantidad apostada * cuota fraccionaria</p><br><p>Ejemplo: En el partido R.Madrid-FC.Barcelona, RM tiene una cuota de inglesa 9/10. Si apostamos 5 euros a favor del RM y gana el partido, nuestros beneficios ser&aacute;n de (5€*9/10) 4,5€. Se puede convertir la cuota a decimal dividiendo la fracci&oacute;n y sum&aacute;ndole 1.<br><br><br><u>FORMATO AMERICANO</u>: Se expresan en forma positiva y negativa. Las negativas indican cuanto hay que apostar para conseguir un beneficio de 100 unidades y las positivas muestran el beneficio correspondiente a una apuesta de 100 unidades.<br><br><br>Beneficio = (cantidad apostada * cuota) / 100<br>Ejemplos: En el partido de R.Madrid - FC.Barcelona, la cuota del RM ser&iacute;a +100 y la del FC.Barcelona -90. Si apostamos 5€ por RM y gana, nuestro beneficio ser&iacute;a de (5*100/100=) 5€. En cambio, si apostamos 5€ por FCB y vence a RM, nuestro beneficio ser&iacute;a de (5*90/100=) 4,5€. <br><br><strong>Cuota Fija</strong>: Las apuestas fijas no es m&aacute;s que el tipo est&aacute;ndar de apuestas visto con casi todas las casas de apuestas. Apuestas fijas simplemente significa que una vez que se realiza una apuesta, las probabilidades en la acci&oacute;n son fijas, lo que significa que no van a cambiar sobre la base de cualquier movimiento futuro en los pagos, los diferenciales, noticias o cualquier otra informaci&oacute;n relacionada con la competici&oacute;n. Las apuestas fijas protegen tanto al apostador como a la casa de apuestas para evitar posibles conflictos en el futuro relativas a la nueva informaci&oacute;n. ",
+
+                    "icons4": {
+                        "alt": "Icono explicacion Trading",
+                        "title": "Que es Trading apuestas online"
+                    },
+                    "title4": "Trading",
+                    "description4": "Técnica de apuestas derivada de los mercados bursátiles. Se aprovechan las fluctuaciones de las cuotas antes del partido y durante el desarrollo del mismo. Consiste en apostar a favor de eventos a cuotas altas y apostar en contra del mismo evento a cuotas bajas. Así se aseguran beneficios cualquiera que sea el resultado final. "
+                },
+                "alphabetU": {
+                    "letter": "U",
+                    "icons1": {
+                        "alt": "Icono explicacion Underdog",
+                        "title": "Que es Underdog apuestas online"
+                    },
+                    "title1": "Underdog",
+                    "description1": "Equipo que tiene pocas posibilidades de ganar un partido. Su cuota es muy alta."
+                },
+                "alphabetV": {
+                    "letter": "V",
+                    "icons1": {
+                        "alt": "Icono explicacion Values",
+                        "title": "Que es Values apuestas online"
+                    },
+                    "title1": "Values",
+                    "description1": "Sobreprecio. Cuota beneficiosa, que en opinión del apostante está por encima de las posibilidades reales de victoria."
+                },
+                "alphabetW": {
+                    "letter": "W",
+                    "icons1": {
+                        "alt": "Icono explicacion Wager Limit",
+                        "title": "Que es Wager Limit apuestas online"
+                    },
+                    "title1": "Wager Limit",
+                    "description1": "Apuesta máxima aceptada por la casa de apuestas antes de que el precio cambie. ",
+
+                    "icons2": {
+                        "alt": "Icono explicacion Wise Guy",
+                        "title": "Que es Wise Guy apuestas online"
+                    },
+                    "title2": "Wise Guy",
+                    "description2": "Apostador que sabe mucho de fútbol y otras disciplinas deportivas."
+                },
+                "alphabetY": {
+                    "letter": "Y",
+                    "icons1": {
+                        "alt": "Icono explicacion Values",
+                        "title": "Que es Values apuestas online"
+                    },
+                    "title1": "Yield",
+                    "description1": "Es básicamente el rendimiento obtenido. Ahondando un poco más en la cuestión podríamos definirlo como el beneficio medio en términos porcentuales que obtiene un pronosticador o tipster por cada unidad monetaria o de stake apostada. Que un tipster tenga un yield del 19% significa por ejemplo que por cada 100€ que apuestes de media a los pronósticos de este tipster obtendrás un beneficio de 19€ netos. Cabe destacar que los yield de por ejemplo el 20% son casi insostenibles en el largo plazo. Los buenos pronosticadores tienen en torno al 5-10% de yield en el largo plazo."
+                }
+        },
+        "icons":{
+            "alt": "icono ampliar informacion sobre preguntas frecuentes de apuestas online",
+            "title": "Conoce Besgam y aclara todas tus dudas con las preguntas frecuentes sobre apuestas deportivas"
+        }
+    },
+    "marketCard": {
+        "shieldsTeams": {
+            "local": {
+                "alt": "Escudos participantes local deportes juegos online",
+                "title": "Escudo equipo local besgam comparador de apuestas deportivas"
+            },
+            "visitor": {
+                "alt": "Escudos participantes visitante deportes juegos online",
+                "title": "Escudo equipo visitante besgam comparador de apuestas deportivas"
+            }
+        },
+        "favoriteTxt1": "Vive una experiencia personalizada en tus apuestas, recibe en tu email todas las novedades y actualizaciones de nuestro blog… <br>Aprovéchate de estas ventajas y muchas más registrándote en nuestra web.",
+        "favoriteTxt2": "Para poder seleccionar un mercado como favorito y poder visualizarlo en el filtro 'Favoritos' debes estar registrado y logeado en BESGAM.<br>El mercado cuya estrella aparezca en gris es el que puede seleccionar como favorito. Si haces clic sobre la imagen del mercado que ya tienes seleccionado la imagen aparecerá destacada.",
+        "registerButton": {
+            "name": "Ir al registro",
+            "alt": "registro Besgam comparador de apuestas",
+            "title": "Registro en Besgam comparador de apuestas deportivas"
+        },
+        "favoriteEvents": {
+            "text":"No tienes mercados favoritos seleccionados.<br><br>Para poder seleccionar un mercado como favorito y poder visualizarlo en el filtro 'Favoritos' debes estar registrado y logeado en BESGAM.<br>El mercado cuya estrella aparezca en gris es el que puede seleccionar como favorito. Si haces clic sobre la imagen del mercado que ya tienes seleccionado la imagen aparecerá destacada.",
+            "alt":"Mercados favoritos para tus apuestas deportivas",
+            "title": "Filtra tus mercados favoritos en Besgam comparador de apuestas deportivas"
+        },
+        "info":{
+            "alt": "Información de tus apuestas",
+            "title": "Apuestas Besgam comparador de apuestas deportivas",
+            "title2": "Ampliar información acerca de este mercado"
+        },
+        "bettingHouse": {
+            "alt": "Logotipos casas de apuestas online",
+            "title": "Besgam compara con las mejores casas de apuestas deportivas",
+            "dropdown": {
+                "alt": "Desplegar casas de apuestas online",
+                "title": "Despliega el 'Dropdown' de Besgam y encuentra las mejores cuotas de apuestas deportivas"
+            }
+        },
+        "seeMore": "VER MÁS RESULTADOS >",
+        "showLess": "OCULTAR >"
+    },
+    "newsletter": {
+        "headtitle": "NEWSLETTER",
+        "subtitle": "Regístrate a nuestra Newsletter",
+        "mail": "Email address",
+        "mailName": "ejemplo@correo.com",
+        "message": {
+            "message1": "I want to receive information Besgam .",
+            "message2": "Not receive information from third parties .",
+            "message3": "You have to accept the general conditions for registration ."
+        },
+        "errorMessage": {
+            "error1": "Rellena este campo.",
+            "error2": "Rellena este campo con una dirección de correo válida.",
+            "error3": "Esta dirección de correo ya está registrada.",
+            "error4": "Solo se permite una inscripción por sesión.",
+            "error5": "Ocurrió un error inesperado.",
+            "error6": "Tienes que aceptar los terminos de privacidad.",
+            "error7": "Rellena el captcha.",
+            "error8": "La clave debe contener al menos 6 caracteres y tendrá como mínimo una letra mayúscula, una minúscula y un número.",
+            "error9": "La dirección de correo y/o clave son incorrectas.",
+            "error10": "Ocurrió un error inesperado.",
+            "error11": "La dirección de correo no existe.",
+            "error12": "Esta dirección de correo ya está registrada.",
+            "error13": "Las contraseñas no coinciden.",
+            "error14": "El token es erroneo o ha caducado, reinicia el proceso de recuperación.",
+            "error15": "Las contraseñas no coinciden."
+        },
+        "terms1": "Acepto la",
+        "terms2": "Política de Privacidad",
+        "wellcome": "¡Bienvenido!! El proceso de inscrición al newsletter se ha completado correctamente, en breve recibiras un email de bienvenida." ,
+        "sendButton": "ENVIAR DATOS"
+    },
+    "register": {
+        "headtitle": "Register",
+        "knowMore": "Sign in Besgam is very easy and is full of advantages. You can personalize your experience, be aware of all the news and exclusive promotions for our users as well as perform a detailed track of your bets. The offer does not end here, we're working so you can enjoy many more benefits and your experience unique.",
+        "loginText": "AND I AM YOU",
+        "registerText": "NEW REGISTER",
+        "createCount": "Create your account Besgam is simple.",
+        "password": "Password",
+        "termsText1": "I accept the",
+        "termsText2": "conditions ",
+        "termsText3": "of Besgam.",
+        "messagePass": {
+            "forgetPass": "¿Have you forgotten your password?",
+            "repeatPass": "Repeat password",
+            "name": "DID YOU FORGET YOUR PASSWORD",
+            "mail": "Enter your email",
+            "passReset": "Your password has now been updated. Click <br> Click here and sign in again."
+        },
+        "registerNow":"REGISTER HERE",
+        "forgotten":"If you have forgotten your password, please provide your email address and send you an email with instructions to retrieve it.",
+        "forgotten2":"We've already sent an email to you recover your password, please check your inbox, including spam or spam, and follow the instructions that indicate you.",
+        "turnOff": "RETURN",
+        "recoverPass": "RECOVER PASSWORD",
+        "savePass": "SAVE PASSWORD",
+        "registerButton": "REGISTER",
+        "goButton": "ENTER",
+        "login":"LOG IN",
+        "errorLoginExternal" : {
+            "facebookConnect":"Failed to connect to Facebook has occurred. Try again ",
+            "facebookData":"Unable to get your Facebook data. Try again",
+            "bbdd":"An unexpected error has occurred",
+            "userPass":"The user and password do not match",
+            "twiterConnect":"Failed to connect with Twitter has occurred. Try again",
+            "twitterData":"You can not get your data from Twitter. Try again"
+        },
+        "seo": {
+            "title1": "Recover password registration Besgam for this match",
+            "title2": "Sign in Besgam and play with the best bookmakers"
+        }
+        
+    },
+    "dashboard": {
+        "menu":{
+            "home": "START",
+            "settings": "PERSONALIZE",
+            "promotions":"PROMOTIONS",
+            "academy": "ACADEMY"
+        },
+        "header":{
+            "count": "My count"
+        },
+        "home": {
+            "headtitle": "Hello",
+            "eventsSection": {
+                "title": "Your events",
+                "subtitle": "Events Highlights",
+                "seoTitle": "Best results betting odds in sports betting comparator Besgam"
+            },
+            "tipsterSection": {
+                "title": "Tipster Zone"
+            },
+            "vipSection": {
+                "title": "Vip Zone",
+                "goTo": "Go to",
+                "seoTitle": "Take advantage of the awards it offers Besgam"
+            }
+        },
+        "promotions":{
+            "seoTitle": {
+                "title1": "Get and benefit from your bonus",
+                "title2": "Take advantage of the awards it offers Besgam",
+                "title3": "Promotion Besgam"
+            },
+            "altTitle": {
+                "alt1":"sports betting",
+                "alt2": "Get promoting Besgam"
+            },
+            "userLogin": {
+                "title": "EXCLUSIVE FOR REGISTERED USERS"
+            } 
+        },
+        "settings": {
+            "section1": {
+                "title": "Update your data",
+                "option": {
+                    "option1": "How do you want us to call you",
+                    "option2": "Change your email",
+                    "option3": "Current password",
+                    "option4": "New password",
+                    "option5": "Repeat your password"
+                },
+                "msg1": "I would like to receive information from Besgam.",
+                "msg2": "I do not wish to receive commercial communications from third parties.",
+                "msg3": "It has been successfully saved",
+                "sendChange": "SEND DATA EXCHANGE"
+
+            },
+            "section2": {
+                "title": "Houses and sports update",
+                "placeholder": "If you are interested in another sport I discuss it here",
+                "seoTitle": {
+                    "title1": "Besgam sports icons sports betting comparator",
+                    "title2": "Select best bookmakers Besgam"
+                },
+                "seoAlt": {
+                    "alt1": "Besgam icons comparator sports betting",
+                    "alt2": "Logo bookmakers. Compare the best sports betting"
+                },
+                "saveChange": "SAVE CHANGES"
+
+            },
+            "section3": {
+                "title": "Customize navigation",
+                "subtitle": "Select the sport to choose their favorite markets.",
+                "favorite": "Click the gray star and select the markets you want to highlight them in your favorites."
+
+            },
+            "section4": {
+                "title": "Drop out",
+                "subtitle": "¡It was a pleasure to have you!",
+                "text": "To unsubscribe from your account, you lose your user and any information that was stored. <br> Are you sure you want to unsubscribe from Besgam?",
+                "button1": "Continue Besgam",
+                "button2": "I want to cancel"
+
+            }
+        },
+        "academy": {
+            "title": "Welcome to our school"
+
+        } 
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
